@@ -1,0 +1,21 @@
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Cadence/Spectre run files
+*.raw/
+*.psf/
+simulation/
+*.cdslck
+*.log.*
+
+# OS files
+.DS_Store
+Thumbs.db
